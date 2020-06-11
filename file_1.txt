@@ -1,3 +1,4 @@
+Adding a new comment per instruction
 Testing changes.
 Adding a line of text.
 This is my first experience with Git. 
