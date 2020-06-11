@@ -1,3 +1,4 @@
+Testing changes.
 Adding a line of text.
 This is my first experience with Git. 
 I am very excited about this class.
